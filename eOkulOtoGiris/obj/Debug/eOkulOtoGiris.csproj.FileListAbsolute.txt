@@ -1,0 +1,11 @@
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\bin\Debug\eOkulOtoGiris.exe.config
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.csprojResolveAssemblyReference.cache
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.frmAna.resources
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.frmGirildi.resources
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.frmOgrenciEkle.resources
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.Properties.Resources.resources
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.csproj.GenerateResource.Cache
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\bin\Debug\eOkulOtoGiris.exe
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\bin\Debug\eOkulOtoGiris.pdb
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.exe
+c:\users\m2hes\documents\visual studio 2013\Projects\eOkulOtoGiris\eOkulOtoGiris\obj\Debug\eOkulOtoGiris.pdb
